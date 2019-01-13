@@ -1,6 +1,7 @@
 # SmashLobbyWeb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
+Install dependencies with `npm install`
 
 ## Development server
 
